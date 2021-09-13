@@ -1,3 +1,1 @@
-# AI
-
-This is the first repository from the two legends SK and NQ
+answers for one of the first course courses for machine learning by andrew ng
